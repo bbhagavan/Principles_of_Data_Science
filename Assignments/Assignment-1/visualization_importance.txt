@@ -1,0 +1,5 @@
+Histogram made on math's score gives distribution of students with respect to score. With this we can decides how many comes under a grade.
+Bar plot, displays the average math score for each gender, allowing us to compare performance between male and female students.
+Scatter plot on reading and writing scores gives the trend between these two values of student. We can see obnormalities like if a student good at reading but bad at writing.
+Box plot, this box plot illustrates how math scores are distributed across different parental education levels. It provides insights into score spread and potential outliers for each category.
+Heatmap of the correlation matrix shows the relationships between the math, reading, and writing scores. It allows us to quickly see which subjects are most strongly correlated with each other.
